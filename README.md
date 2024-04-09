@@ -12,7 +12,7 @@
 ![](image/Demo/Homepage.png)
 
 ## Login Page
-![]image/Demo/Login.png)
+![](image/Demo/Login.png)
 
 ## Character Page
 ![](image/Demo/Character.png)
@@ -29,6 +29,5 @@
 - I Made Ananta Yogananda
 
 ## License
-Copyright © [Dustin Arasy ](https://github.com/dustin-arasy)
-Copyright © [Ananta Yogananda ](https://github.com/yogananda26)
+Copyright © [Dustin Arasy ](https://github.com/dustin-arasy) & [Ananta Yogananda ](https://github.com/yogananda26)
 
